@@ -2,12 +2,12 @@
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: https://<your-github-username>.github.io # the base hostname & protocol for your site
+url: https://snagsby.github.io # the base hostname & protocol for your site
 
 # The base URL of your site
-baseurl: # the subpath of your site, e.g. '/blog', keep it empty if your site is at the root of a domain
+baseurl: /demo # the subpath of your site, e.g. '/blog', keep it empty if your site is at the root of a domain
 
-title: StoryKit # the main title
+title: Snagsby Demo # the main title
 
 tagline: Where stories take shape. # it will display as the subtitle
 
@@ -18,8 +18,8 @@ description: >- # used by seo meta and the atom feed
 avatar: /assets/img/logo.png
 
 github:
-  username: <your-github-username> # change to your GitHub username
-  repository: <your-github-repository> # change to your GitHub repository name, e.g. 'my-blog'
+  username: snagsby# change to your GitHub username
+  repository: demo # change to your GitHub repository name, e.g. 'my-blog'
 
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
